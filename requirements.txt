@@ -1,0 +1,29 @@
+# Core libraries
+streamlit>=1.27.0
+python-dotenv>=1.0.0
+
+# LangChain and LLM integration
+langchain>=0.0.237
+langchain-core>=0.0.20
+langchain-community>=0.0.10
+langchain-google-genai>=0.0.1
+google-generativeai>=0.3.0
+
+# Database connections
+pymysql>=1.0.3
+sqlalchemy>=2.0.0
+mysql-connector-python>=8.1.0
+
+# ML and NLP
+transformers>=4.30.0
+torch>=2.0.0
+datasets>=2.14.0
+tqdm>=4.65.0
+
+# Vector stores for examples
+chromadb>=0.4.13
+
+# Image and document processing
+Pillow>=10.0.0
+requests>=2.31.0
+PyPDF2>=3.0.0
